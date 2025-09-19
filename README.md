@@ -21,6 +21,10 @@ Designed with a clean and modern UI, Edusity is optimized for all devices, from 
 - **CSS3 
 - ** API for email sending
 
+ 
+ **Live Demo**: [Edusity University Website](https://sooraj-university.netlify.app/)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
